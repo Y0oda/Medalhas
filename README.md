@@ -4,6 +4,8 @@
 
 ### Observações
 
+- Meu nome completo: **Samuel Caleb Nunes Câmara**
+
 - Os textos que não estiverem clicáveis, foram porque eu não achei, no site, a comprovação de que eu ganhei aquelas medalhas.
 
 ##
@@ -43,3 +45,6 @@
 - <a href="https://www.obrl.com.br/site/arquivos/CERTIFICADOS_OBRL_2021_TETA.pdf">2021 - Ouro</a>
 - <a href="https://www.obrl.com.br/file-download/Medalhistas-Alfa-OBRL2022.pdf">2022 - Ouro (61º Lugar)</a>
 
+### OCM - Olimpíada Cearense de Matemática | 🥉
+
+- <a href="https://ocm.mat.br/premiacao"> 2023 - Bronze

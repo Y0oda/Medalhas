@@ -23,7 +23,7 @@
 ### OBA - Olimpíada Brasileira de Astronomia e Astronáutica | 🥇🥇🥇🥈
 
 - <a href="http://www.oba.org.br/site/index.php/zerouminforma.com.br/estudante-da-escola-do-sesi-de-dourados-recebe-medalha-de-ouro-na-olimpiada-brasileira-de-astronomia-e-astronautica/?p=conteudo&idcat=22&pag=conteudo&acao=mostra&idaluno=202155&olimp=oba&ed=2023">2023 - Ouro</a>
-- 2022 - Ouro
+- <a href="http://www.oba.org.br/site/index.php/zerouminforma.com.br/estudante-da-escola-do-sesi-de-dourados-recebe-medalha-de-ouro-na-olimpiada-brasileira-de-astronomia-e-astronautica/?p=conteudo&idcat=22&pag=conteudo&acao=mostra&idaluno=174896&olimp=oba&ed=2022">2022 - Ouro
 - <a href="http://www.oba.org.br/site/index.php?p=conteudo&idcat=22&pag=conteudo&acao=mostra&idaluno=50853&olimp=oba&ed=2018">2018 - Prata</a>
 - 2017 - Ouro
 

@@ -29,7 +29,7 @@
 
 ##
 
-### OBR - Olimpíada Brasileira de Robótica | 🥈
+### OBR - Olimpíada Brasileira de Robótica | 🥈🥉
 
 - 2022 - Bronze
 - 2019 - Prata

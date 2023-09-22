@@ -56,4 +56,4 @@
 
 ### Competição Jacob Palis Júnior de Matemática | 🥇
 
-- <a href="https://docs.google.com/spreadsheets/d/14I8HueKI4_WZgakNnjk-ALFsMC1GWB9P/htmlview"> 2023 - Ouro (8º lugar)
+- <a href="https://docs.google.com/spreadsheets/d/14I8HueKI4_WZgakNnjk-ALFsMC1GWB9P/htmlview"> 2023 - Ouro (2º lugar)

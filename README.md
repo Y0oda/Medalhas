@@ -51,3 +51,9 @@
 ### OCM - Olimpíada Cearense de Matemática | 🥉
 
 - <a href="https://ocm.mat.br/premiacao"> 2023 - Bronze
+
+##
+
+### Competição Jacob Palis Júnior de Matemática | 🥇
+
+- <a href="https://docs.google.com/spreadsheets/d/14I8HueKI4_WZgakNnjk-ALFsMC1GWB9P/htmlview"> 2023 - Ouro (8º lugar)

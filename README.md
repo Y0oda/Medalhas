@@ -41,7 +41,7 @@
 - 2023 (7º ano) - Passei pra 3ª fase e acertei 33 questões (de 40)
 - 2022 (6º ano) - Passei pra 3ª fase e acertei 29 questões (de 40)
 - <a href="https://olimpiada.ic.unicamp.br/passadas/OBI2021/qmerito/ij/">2021 (5º ano) - Prata (26º Lugar)</a>
-- <a href="https://olimpiada.ic.unicamp.br/passadas/OBI2020/qmerito/ij/">2020 (5º ano) - Prata (30º Lugar)</a>
+- <a href="https://olimpiada.ic.unicamp.br/passadas/OBI2020/qmerito/ij/">2020 (4º ano) - Prata (30º Lugar)</a>
 
 ##
 

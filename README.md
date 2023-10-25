@@ -50,9 +50,13 @@
 - <a href="https://www.obrl.com.br/file-download/Medalhistas-Alfa-OBRL2022.pdf">2022 (6º ano) - Ouro (61º Lugar)</a>
 - <a href="https://www.obrl.com.br/site/arquivos/CERTIFICADOS_OBRL_2021_TETA.pdf">2021 (5º ano) - Ouro</a>
 
+##
+
 ### OCM - Olimpíada Cearense de Matemática | 🥉
 
 - <a href="https://ocm.mat.br/premiacao"> 2023 (7º ano) - Bronze
+
+##
 
 ### OBMEP - Olimpíada Brasileira de Matemática das Escolas Públicas | 
 
@@ -63,6 +67,8 @@
 ### Competição Jacob Palis Júnior de Matemática | 🥇
 
 - <a href="https://docs.google.com/spreadsheets/d/14I8HueKI4_WZgakNnjk-ALFsMC1GWB9P/edit?usp=sharing&ouid=101955050469121224692&rtpof=true&sd=true"> 2023 (7º ano) - Ouro (2º lugar)
+
+##
 
 ### OIM - Olimpíada Itabirana de Matemática | 🥇
 

@@ -73,3 +73,8 @@
 ### OIM - Olimpíada Itabirana de Matemática | 🥇
 
 - <a href="https://www.olimpiadaitabirana.com.br/static/pdfs/resultado/Resultado-Final-OIM-2023-revisado.pdf"> 2023 (7º ano) - Ouro (2º lugar)
+
+##
+
+### ONC - Olimpíada Nacional de Ciências | 🥈
+- <a href="https://certificados.onciencias.org/client/search?certs_item_id=67&q=Samuel+Caleb+Nunes+C%C3%A2mara&inep="> 2023 (7º ano) - Prata

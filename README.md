@@ -47,6 +47,7 @@
 
 ### OBRL - Olimpíada Brasileira de Raciocínio Lógico | 🥇🥇
 
+- <a href="https://www.obrl.com.br/file-download/MEDALHISTAS-2023.pdf">2023 (7º ano) - Bronze (444º lugar)
 - <a href="https://www.obrl.com.br/file-download/Medalhistas-Alfa-OBRL2022.pdf">2022 (6º ano) - Ouro (61º Lugar)</a>
 - <a href="https://www.obrl.com.br/site/arquivos/CERTIFICADOS_OBRL_2021_TETA.pdf">2021 (5º ano) - Ouro</a>
 

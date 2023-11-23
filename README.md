@@ -74,6 +74,7 @@
 ### OIM - Olimpíada Itabirana de Matemática | 🥇
 
 - <a href="https://www.olimpiadaitabirana.com.br/static/pdfs/resultado/Resultado-Final-OIM-2023-revisado.pdf"> 2023 (7º ano) - Ouro (2º lugar)
+- 2022 (6º ano) - Passei pra 2ª fase
 
 ##
 

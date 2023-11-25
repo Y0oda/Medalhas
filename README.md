@@ -81,5 +81,7 @@
 ### ONC - Olimpíada Nacional de Ciências | 🥈
 - <a href="https://certificados.onciencias.org/client/search?certs_item_id=67&q=Samuel+Caleb+Nunes+C%C3%A2mara&inep="> 2023 (7º ano) - Prata
 
+##
+
 ### ONHB - Olimpíada Nacional em História do Brasil | 🏅
 - 2023 (7º ano) - Cristal

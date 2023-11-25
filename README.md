@@ -83,5 +83,5 @@
 
 ##
 
-### ONHB - Olimpíada Nacional em História do Brasil | 🏅🎖🎖
+### ONHB - Olimpíada Nacional em História do Brasil | 🏅
 - 2023 (7º ano) - Cristal

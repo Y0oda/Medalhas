@@ -85,3 +85,6 @@
 
 ### ONHB - Olimpíada Nacional em História do Brasil | 🏅
 - 2023 (7º ano) - Cristal
+
+### OCI - Olimpíada Cearense de Informática | 🥉
+- 2023 (7º ano) - Bronze

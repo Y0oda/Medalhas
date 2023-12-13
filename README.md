@@ -87,4 +87,4 @@
 - <a href="https://s3.amazonaws.com/onhb-public-media/certificados/onhba3/78e87a2787d8039/certificado-ONHBA3-2023-cristal-e4657-p698962.pdf"> 2023 (7º ano) - Cristal
 
 ### OCI - Olimpíada Cearense de Informática | 🥉
-- 2023 (7º ano) - Bronze
+- <a href="https://oci.org.br/documentos/premiados.pdf"> 2023 (7º ano) - Bronze

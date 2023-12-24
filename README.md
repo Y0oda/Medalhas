@@ -62,7 +62,7 @@
 ### OBMEP - Olimpíada Brasileira de Matemática das Escolas Públicas | 
 
 - 2022 (6º ano) - Passei pra 2ª fase
-- <a href="https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosOuro.privada.do.htm"> 2023 (7º ano) - Ouro (9º lugar)
+- <a href="https://premiacao.obmep.org.br/18obmep/verRelatorioPremiadosOuro.privada.do.htm"> 2023 (7º ano) - Ouro (2º lugar)
 
 ##
 

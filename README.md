@@ -87,5 +87,12 @@
 ### ONHB - Olimpíada Nacional em História do Brasil | 🏅
 - <a href="https://s3.amazonaws.com/onhb-public-media/certificados/onhba3/78e87a2787d8039/certificado-ONHBA3-2023-cristal-e4657-p698962.pdf"> 2023 (7º ano) - Cristal
 
+##
+
 ### OCI - Olimpíada Cearense de Informática | 🥉
 - <a href="https://oci.org.br/documentos/premiados.pdf"> 2023 (7º ano) - Bronze
+
+##
+
+### OBF - Olimpíada Brasileira de Física | 🥈
+- <a href="https://app.graxaim.org/obf/2023/open_page/quadro_de_medalhas_7a"> 2023 (7º Ano) - Prata
